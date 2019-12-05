@@ -255,4 +255,4 @@ node02重新加入集群
 
 
 
-**详细搭建过程：**[k8s实践(十四)：Pod驱逐迁移和Node节点维护](https://github.com/loong576/Pode-Eviction-and-Node-Manage.git)
+**详细搭建过程：**[k8s实践(十四)：Pod驱逐迁移和Node节点维护](https://blog.51cto.com/3241766/2456338)
